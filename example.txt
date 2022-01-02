@@ -1,0 +1,8 @@
+// todo Create
+https://todoapp.free.beeceptor.com/createnewbook,
+// todo retrieve
+https://todoapp.free.beeceptor.com/retrievebooks,
+// todo delete
+https://todoapp.free.beeceptor.com/deletebooks/name=mazhar,
+// todo update
+https://todoapp.free.beeceptor.com/updatebooks/name=puffman
